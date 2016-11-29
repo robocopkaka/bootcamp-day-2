@@ -7,7 +7,7 @@
 > This takes a an array as it's parameter, and returns the smallest and largest elemnts in an array. If both are equal, it returns an array containing just one of them. Code can be found under 'apps/findMinMax.js'
 
 ## API
-> Wrote a simple application that uses Guardians' API to retrieve articles based on a search parameter the user entered. The user can also launch a URL of any of the articles that was returned. Code can be found under 'apps/api.js'
+> Wrote a simple application that uses The Guardian's API to retrieve articles based on a search parameter the user entered. The user can also launch a URL of any of the articles that was returned. Code can be found under 'apps/api.js'
 
 ## Tests
 > All tests are found in the tests subfolder
