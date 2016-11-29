@@ -13,6 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "chai": "^3.5.0",
-    "node-rest-client": "^2.0.1"
+    "dotenv": "^2.0.0",
+    "node-rest-client": "^2.0.1",
+    "open": "0.0.5"
   }
 }
